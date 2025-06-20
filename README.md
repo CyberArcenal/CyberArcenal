@@ -38,28 +38,28 @@
 <br />
 
 <!-- About Section -->
+<!-- About Section -->
 # About Me
  
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
- ☁️ **Full Stack & Cloud Developer** with production system experience<br/><br/>
+ ☁️ **Full Stack & Mobile Developer** with production system experience<br/><br/>
  
  🛠️ **Technical Expertise:**
-   - **AWS Cloud Services** (RDS, EC2, S3) - Hosted anime website database on AWS infrastructure
-   - **Database Management** - Designed and optimized cloud-based database solutions
-   - **System Architecture** - Built scalable 3-tier applications (admin/rider/customer)
-   - **Web Development** - Fullstack development with Django, React, and Tailwind CSS<br/><br/>
+   - **Android Development** - Kotlin/Java social media applications
+   - **AWS Cloud Services** - Hosted anime website database on AWS infrastructure
+   - **Fullstack Development** - Django backend with React/Vite frontends<br/><br/>
  
  🚀 **Key Projects:**
-   - 🎬 **Anime Platform** - AWS-powered streaming website with cloud database
-   - 🍔 **Food Ordering System** - Multi-role application with real-time updates
-   - 📦 **Inventory & POS** - Business management systems with analytics
-   - 🛒 **E-commerce Solutions** - Complete online shopping platforms<br/><br/>
+   - 📱 **Social Media App** - Android application with real-time features
+   - 🎬 **Anime Platform** - AWS-powered streaming website 
+   - � **Food Ordering System** - 3-role architecture (admin/rider/customer)
+   - 📊 **Business Systems** - Inventory, POS, and e-commerce solutions<br/><br/>
  
  📬 **Let's Connect:** dargab1999@gmail.com<br/><br/>
  
- 🔭 **Currently Exploring:** Advanced cloud architectures and DevOps practices
+ 🔭 **Currently Expanding:** Mobile app performance optimization
 </p>
 
 <br/>
