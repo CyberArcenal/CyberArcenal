@@ -37,7 +37,7 @@
 </p>
 <br />
 
-<!-- About Section -->
+
 <!-- About Section -->
 # About Me
  
