@@ -38,15 +38,20 @@
 <br />
 
 <!-- About Section -->
+
 # About Me
  
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
- 💻 &emsp; Full stack developer with experience in web and mobile app development<br/><br/>
- 🚀 &emsp; Built production-ready projects including social platforms and e-commerce sites<br/><br/>
- 📬 &emsp; Contact me at: your-email@example.com<br/><br/>
- 🛠️ &emsp; Currently exploring cloud technologies and advanced Python frameworks<br/><br/>
+ 💻 &emsp; Full stack developer with expertise in business system development<br/><br/>
+ 🚀 &emsp; Developed production systems:
+   - Inventory & POS systems
+   - 3-tier Food Ordering (Admin/Rider/Customer)
+   - E-commerce platforms
+   - Social/Entertainment apps<br/><br/>
+ 📬 &emsp; Contact: your-email@example.com<br/><br/>
+ 🛠️ &emsp; Exploring cloud technologies & system architecture<br/><br/>
 </p>
 
 <br/>
