@@ -44,6 +44,20 @@
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
+ ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
+ ❤️ &emsp; Love to writing code and learning new features<br/><br/>
+ 📧 &emsp; Reach me anytime: dargab1999@gmail.com<br/><br/>
+ 💬 &emsp; Ask me about anything [here](https://github.com/AkNOwn389/AkNOwn389/issues)
+
+</p>
+
+<br/>
+<br/>
+<br/>
+
+<p>
+ <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
+  
  ☁️ **Full Stack & Mobile Developer** with production system experience<br/><br/>
  
  🛠️ **Technical Expertise:**
