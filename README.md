@@ -105,7 +105,7 @@
 <hr/>
 <br/>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/Cyber-Arcenal">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cyber-Arcenal&theme=radical&border=7F3FBF&background=0D1117" alt="GitHub Streak"/>
   </a>
@@ -128,4 +128,4 @@
 
 <br/>
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Cyber-Arcenal&custom_title=Darius's%20GitHub%20Activity&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Cyber-Arcenal&custom_title=Darius's%20GitHub%20Activity&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true) -->
