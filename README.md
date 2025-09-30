@@ -12,7 +12,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://darius-g.vercel.app">Darius</a></b>
+                <b><a target="_blank" href="https://darius-portfollio.vercel.app/">Darius</a></b>
         </samp>
 </h3>
 
@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
- <a href="https://darius-g.vercel.app" target="blank">
+ <a href="https://darius-portfollio.vercel.app/" target="blank">
   <img src="https://img.shields.io/badge/Portfolio-DC143C?style=for-the-badge&logo=google-chrome&logoColor=white" alt="portfolio" />
  </a>
  <a href="mailto:your-email@example.com" target="_blank">
@@ -37,11 +37,10 @@
 </p>
 <br />
 
-
 <!-- About Section -->
+
 # About Me
- 
- 
+
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
@@ -67,37 +66,58 @@
 <br/>
 <br/>
 
-## Tech Stack
+<br/>
+## 💻 Tech Stack
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+### 🧠 Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Frameworks & Tools
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+---
+
+### ⚙️ Frameworks & Tools
+
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)  
+![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)  
+![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)  
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)  
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+### 📦 Parsing & Scraping
+
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=for-the-badge&logo=python&logoColor=white)  
+![PDFMiner](https://img.shields.io/badge/PDFMiner-FFD43B?style=for-the-badge&logo=python&logoColor=black)  
+![Tabula](https://img.shields.io/badge/Tabula-FF6F00?style=for-the-badge&logo=java&logoColor=white)
 
 <br/>
 
 ## Featured Projects
 
 ### Web Applications
+
 - 🎬 **Anime Streaming Platform** - Fullstack anime portal with user profiles
 - ☕ **Coffee E-commerce** - Order management system with payment integration
 - ✈️ **Travel Booking Website** - Flight/hotel booking platform with real-time availability
 
 ### Mobile Applications
+
 - 📱 **Social Media App** - React Native application with real-time chat
 - 💼 **Portfolio Manager** - Mobile-first investment tracking dashboard
 
 ### CLI Tools
+
 - ⚙️ **Terminal Utilities** - Python-based productivity tools for developers
 - 🔒 **Security Scripts** - Automation tools for system administration
 
@@ -117,7 +137,7 @@
   </a>
 </p>
 
-<a> 
+<a>
   <a href="https://github.com/Cyber-Arcenal">
     <img alt="GitHub Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Cyber-Arcenal&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
   </a>
