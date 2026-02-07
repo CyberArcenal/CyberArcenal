@@ -107,10 +107,10 @@
 ### 📦 Parsing & Scraping
 
 <p align="center">
-![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=for-the-badge&logo=python&logoColor=white)  
-![PDFMiner](https://img.shields.io/badge/PDFMiner-FFD43B?style=for-the-badge&logo=python&logoColor=black)  
-![Tabula](https://img.shields.io/badge/Tabula-FF6F00?style=for-the-badge&logo=java&logoColor=white)  
-![Scrapy](https://img.shields.io/badge/Scrapy-60DBFB?style=for-the-badge&logo=scrapy&logoColor=black)
+  <img src="https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PDFMiner-FFD43B?style=for-the-badge&logo=python&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tabula-FF6F00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scrapy-60DBFB?style=for-the-badge&logo=scrapy&logoColor=black"/>
 </p>
 
 <br/>
