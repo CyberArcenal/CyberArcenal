@@ -72,6 +72,7 @@
 ---
 
 ### 🧠 Languages
+
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -85,6 +86,7 @@
 ---
 
 ### ⚙️ Frameworks & Tools
+
 <p align="center">
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
@@ -104,10 +106,12 @@
 
 ### 📦 Parsing & Scraping
 
+<p align="center">
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=for-the-badge&logo=python&logoColor=white)  
 ![PDFMiner](https://img.shields.io/badge/PDFMiner-FFD43B?style=for-the-badge&logo=python&logoColor=black)  
 ![Tabula](https://img.shields.io/badge/Tabula-FF6F00?style=for-the-badge&logo=java&logoColor=white)  
 ![Scrapy](https://img.shields.io/badge/Scrapy-60DBFB?style=for-the-badge&logo=scrapy&logoColor=black)
+</p>
 
 <br/>
 
@@ -133,7 +137,6 @@
 - 📦 **Inventory Management System** - Warehouse-level validation, auto-reorder triggers, and notification handlers
 - 🏨 **Booking Management System** - Desktop app for reservations, scheduling, and client management with audit-safe logs
 
-
 ### CLI Tools
 
 - ⚙️ **Terminal Utilities** - Python-based productivity tools for developers
@@ -143,11 +146,11 @@
 <hr/>
 <br/>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/CyberArcenal">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=CyberArcenal&theme=radical&border=7F3FBF&background=0D1117" alt="GitHub Streak"/>
   </a>
-</p>
+</p> -->
 
 <p align="center">
   <a href="https://github.com/CyberArcenal">
