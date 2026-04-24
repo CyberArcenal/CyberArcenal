@@ -1,4 +1,3 @@
-
 <h2 align="center">
   Welcome to Cyber Arcenal's World!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
@@ -49,17 +48,17 @@
  🛠️ **Technical Expertise:**
    - **Android Development** - Kotlin/Java social media applications
    - **AWS Cloud Services** - Hosted anime website database on AWS infrastructure
-   - **Fullstack Development** - Django backend with React/Vite frontends<br/><br/>
+   - **Fullstack Development** - Django, Laravel, ASP.NET Core backends with React/Vue frontends<br/><br/>
  
  🚀 **Key Projects:**
    - 📱 **Social Media App** - Android application with real-time features
    - 🎬 **Anime Platform** - AWS-powered streaming website 
-   - � **Food Ordering System** - 3-role architecture (admin/rider/customer)
+   - 🍽️ **Food Ordering System** - 3-role architecture (admin/rider/customer)
    - 📊 **Business Systems** - Inventory, POS, and e-commerce solutions<br/><br/>
  
  📬 **Let's Connect:** dargab1999@gmail.com<br/><br/>
  
- 🔭 **Currently Expanding:** Mobile app performance optimization
+ 🔭 **Currently Expanding:** Modern backend frameworks (ASP.NET Core, Laravel) and cloud-native architectures
 </p>
 
 <br/>
@@ -81,6 +80,8 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 </p>
 
 ---
@@ -90,11 +91,14 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
@@ -122,8 +126,9 @@
 - 🎬 **Anime Streaming Platform** - Fullstack anime portal with user profiles
 - ☕ **Coffee E-commerce** - Order management system with payment integration
 - ✈️ **Travel Booking Website** - Flight/hotel booking platform with real-time availability
-- 🛒 **E-commerce Management System** - Windows-based platform for product catalog, order tracking, and vendor/customer management
 - 🏘️ **Barangay Management System** - Local governance app for resident records, permits, and community services
+- 💇 **Salon Management System** - Modular Laravel + Inertia + React app with appointment scheduling, inventory, and notifications (SalonManagementCore)
+- 🏥 **Aesthetic Clinic Management API** - ASP.NET Core modular monolith with JWT, EF Core, email notifications, and full CRUD (AestheticClinicAPI)
 
 ### Mobile Applications
 
