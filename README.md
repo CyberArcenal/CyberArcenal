@@ -1,177 +1,337 @@
-<h2 align="center">
-  Welcome to Cyber Arcenal's World!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h2>
 
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                        HERO SECTION                        -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-<a align="right" href="https://komarev.com/ghpvc/?username=CyberArcenal">
-  <img align="right" src="https://komarev.com/ghpvc/?username=CyberArcenal&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
-</a>
+<div align="center">
 
-<!-- Intro  -->
-<h3 align="center">
-        <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://darius-portfollio.vercel.app/">Darius</a></b>
-        </samp>
-</h3>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=800&color=7F3FBF&center=true&vCenter=true&random=false&width=650&lines=Hi+there%2C+I'm+Darius+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;Mobile+Developer+%F0%9F%93%B1;Cloud+Enthusiast+%E2%98%81%EF%B8%8F;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
 
-<p align="center"> 
-  <samp>
-    「 Full Stack Developer from <b>Philippines</b> specializing in web and mobile solutions 」
-    <br>
-    <br>
-  </samp>
-</p>
-
-<p align="center">
- <a href="https://darius-portfollio.vercel.app/" target="blank">
-  <img src="https://img.shields.io/badge/Portfolio-DC143C?style=for-the-badge&logo=google-chrome&logoColor=white" alt="portfolio" />
- </a>
- <a href="mailto:dargab1999@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
- </a>
- <a href="https://github.com/CyberArcenal" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
- </a>
-</p>
-<br />
-
-<!-- About Section -->
-
-# About Me
+<h3>「 Full Stack Developer from 🇵🇭 Philippines 」</h3>
 
 <p>
- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
-  
- ☁️ **Full Stack & Mobile Developer** with production system experience<br/><br/>
- 
- 🛠️ **Technical Expertise:**
-   - **Android Development** - Kotlin/Java social media applications
-   - **AWS Cloud Services** - Hosted anime website database on AWS infrastructure
-   - **Fullstack Development** - Django, Laravel, ASP.NET Core backends with React/Vue frontends<br/><br/>
- 
- 🚀 **Key Projects:**
-   - 📱 **Social Media App** - Android application with real-time features
-   - 🎬 **Anime Platform** - AWS-powered streaming website 
-   - 🍽️ **Food Ordering System** - 3-role architecture (admin/rider/customer)
-   - 📊 **Business Systems** - Inventory, POS, and e-commerce solutions<br/><br/>
- 
- 📬 **Let's Connect:** dargab1999@gmail.com<br/><br/>
- 
- 🔭 **Currently Expanding:** Modern backend frameworks (ASP.NET Core, Laravel) and cloud-native architectures
+  <a href="https://komarev.com/ghpvc/?username=CyberArcenal">
+    <img src="https://komarev.com/ghpvc/?username=CyberArcenal&label=Profile%20Visitors&color=7F3FBF&style=for-the-badge" alt="Profile visitors" />
+  </a>
+  <img src="https://img.shields.io/github/followers/CyberArcenal?label=Followers&style=for-the-badge&color=7F3FBF&logo=github&logoColor=white" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/CyberArcenal?label=Stars&style=for-the-badge&color=7F3FBF&logo=github&logoColor=white" alt="GitHub stars" />
 </p>
 
-<br/>
-<br/>
-<br/>
+</div>
 
-<br/>
-## 💻 Tech Stack
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                      CONNECT SECTION                       -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+### 🌐 Let's Connect
+
+<a href="https://darius-portfollio.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-DC143C?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+</a>
+<a href="mailto:dargab1999@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://github.com/CyberArcenal" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<!-- TODO: Update with your LinkedIn URL -->
+<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+</div>
 
 ---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                        ABOUT ME                            -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+## 💫 About Me
+
+<table>
+  <tr>
+    <td width="55%" valign="top">
+
+**Hi! I'm Darius** — a **Full Stack Developer** based in the Philippines 🇵🇭 with hands-on experience building **production-grade systems** across web, mobile, and desktop platforms.
+
+I love turning complex problems into clean, scalable solutions — from **REST APIs** and **cloud infrastructure** to **cross-platform mobile apps** and **automation scripts**.
+
+- ☁️ Currently exploring **cloud-native** and **modern backend frameworks**
+- 🚀 Building systems that solve **real business problems**
+- 💡 Passionate about **clean code**, **system design**, and **great UX**
+- 🎯 Focused on shipping **reliable, production-ready** software
+
+    </td>
+    <td width="45%" align="center">
+      <img src="/assets/programmer.gif" alt="Coding" width="100%" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🎯 What I'm Up To
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+### 🌱 Currently Learning
+- 🏗️ Cloud-native architectures (Docker, K8s)
+- ⚡ ASP.NET Core + Laravel advanced patterns
+- 📐 System design & scalable APIs
+- 🤖 AI integration in web apps
+
+    </td>
+    <td width="50%" valign="top">
+
+### 🔭 Currently Working On
+- 🏥 Production APIs with ASP.NET Core
+- 💇 Modular Laravel + Inertia + React apps
+- 📊 Business management systems
+- 🎨 Personal portfolio refinements
+
+    </td>
+  </tr>
+</table>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                        TECH STACK                          -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+## 🛠️ Tech Stack
 
 ### 🧠 Languages
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 </p>
 
----
+### ⚙️ Frameworks & Libraries
 
-### ⚙️ Frameworks & Tools
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<p>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Inertia.js-9553E9?style=for-the-badge&logo=inertia&logoColor=white" />
+  <img src="https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
 </p>
 
----
+### 🗄️ Databases & Cloud
+
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+</p>
 
 ### 📦 Parsing & Scraping
 
-<p align="center">
-  <img src="https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PDFMiner-FFD43B?style=for-the-badge&logo=python&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Tabula-FF6F00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scrapy-60DBFB?style=for-the-badge&logo=scrapy&logoColor=black"/>
+<p>
+  <img src="https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PDFMiner-FFD43B?style=for-the-badge&logo=python&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tabula-FF6F00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scrapy-60DBFB?style=for-the-badge&logo=scrapy&logoColor=black" />
 </p>
 
-<br/>
+### 💻 IDEs & Tools
 
-## Featured Projects
-
-### Web Applications
-
-- 🎬 **Anime Streaming Platform** - Fullstack anime portal with user profiles
-- ☕ **Coffee E-commerce** - Order management system with payment integration
-- ✈️ **Travel Booking Website** - Flight/hotel booking platform with real-time availability
-- 🏘️ **Barangay Management System** - Local governance app for resident records, permits, and community services
-- 💇 **Salon Management System** - Modular Laravel + Inertia + React app with appointment scheduling, inventory, and notifications (SalonManagementCore)
-- 🏥 **Aesthetic Clinic Management API** - ASP.NET Core modular monolith with JWT, EF Core, email notifications, and full CRUD (AestheticClinicAPI)
-
-### Mobile Applications
-
-- 📱 **Social Media App** - React Native application with real-time chat
-- 💼 **Portfolio Manager** - Mobile-first investment tracking dashboard
-
-### Windows Management Applications
-
-- 🌾 **Farm Management System** - Audit-safe workflows for assignments, pitak capacity, and redistribution logic
-- 💰 **Payroll & Debt Management** - Transaction-safe payroll with debt tracking and worker financial updates
-- 📦 **Inventory Management System** - Warehouse-level validation, auto-reorder triggers, and notification handlers
-- 🏨 **Booking Management System** - Desktop app for reservations, scheduling, and client management with audit-safe logs
-
-### CLI Tools
-
-- ⚙️ **Terminal Utilities** - Python-based productivity tools for developers
-- 🔒 **Security Scripts** - Automation tools for system administration
-
-<br/>
-<hr/>
-<br/>
-
-<!-- <p align="center">
-  <a href="https://github.com/CyberArcenal">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=CyberArcenal&theme=radical&border=7F3FBF&background=0D1117" alt="GitHub Streak"/>
-  </a>
-</p> -->
-
-<p align="center">
-  <a href="https://github.com/CyberArcenal">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CyberArcenal&theme=radical" alt="GitHub Contribution"/>
-  </a>
+<p>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
-<a>
-  <a href="https://github.com/CyberArcenal">
-    <img alt="GitHub Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=CyberArcenal&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
-  </a>
-  <a href="https://github.com/CyberArcenal">
-    <img alt="Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=CyberArcenal&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
-  </a>
-</a>
+---
 
-<br/>
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                      FEATURED PROJECTS                     -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CyberArcenal&custom_title=Darius's%20GitHub%20Activity&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+## 🚀 Featured Projects
+
+### 🌐 Web Applications
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🎬 Anime Streaming Platform</h4>
+      <p>Fullstack anime portal with user profiles and AWS-powered backend</p>
+      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+    </td>
+    <td width="50%" valign="top">
+      <h4>☕ Coffee E-commerce</h4>
+      <p>Order management system with payment integration</p>
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>✈️ Travel Booking Website</h4>
+      <p>Flight and hotel booking platform with real-time availability</p>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+    </td>
+    <td width="50%" valign="top">
+      <h4>🏘️ Barangay Management System</h4>
+      <p>Local governance app for records, permits, and community services</p>
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>💇 Salon Management System</h4>
+      <p>Modular Laravel + Inertia + React app with scheduling, inventory, and notifications</p>
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+      <img src="https://img.shields.io/badge/Inertia.js-9553E9?style=flat-square&logo=inertia&logoColor=white" />
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+    </td>
+    <td width="50%" valign="top">
+      <h4>🏥 Aesthetic Clinic Management API</h4>
+      <p>ASP.NET Core modular monolith with JWT auth, EF Core, and email notifications</p>
+      <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+### 📱 Mobile & 🖥️ Desktop Applications
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>📱 Social Media App</h4>
+      <p>Android application with real-time chat and social features</p>
+      <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+    </td>
+    <td width="50%" valign="top">
+      <h4>💼 Portfolio Manager</h4>
+      <p>Mobile-first investment tracking dashboard</p>
+      <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🌾 Farm Management System</h4>
+      <p>Audit-safe workflows for assignments, capacity, and redistribution</p>
+      <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
+      <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+    </td>
+    <td width="50%" valign="top">
+      <h4>💰 Payroll & Debt Management</h4>
+      <p>Transaction-safe payroll with debt tracking and financial updates</p>
+      <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>📦 Inventory Management System</h4>
+      <p>Warehouse validation, auto-reorder triggers, and notifications</p>
+      <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
+    </td>
+    <td width="50%" valign="top">
+      <h4>🏨 Booking Management System</h4>
+      <p>Desktop app for reservations, scheduling, and client management</p>
+      <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+### ⚙️ CLI Tools
+
+- 🔧 **Terminal Utilities** — Python-based productivity tools for developers
+- 🔒 **Security Scripts** — Automation tools for system administration
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                      GITHUB STATS                          -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="192px" src="https://streak-stats.demolab.com/?user=CyberArcenal&theme=radical&border=7F3FBF&background=0D1117&stroke=7F3FBF&ring=F85D7F&fire=F8D866&currStreakLabel=FFFFFF" alt="GitHub Streak" />
+
+<br /><br />
+
+<img height="192px" src="https://github-readme-stats.vercel.app/api?username=CyberArcenal&show_icons=true&count_private=true&theme=radical&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="GitHub Stats" />
+<img height="192px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyberArcenal&langs_count=8&layout=compact&theme=radical&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F" alt="Top Languages" />
+
+<br /><br />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CyberArcenal&theme=radical" alt="Profile Summary" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=CyberArcenal&theme=radical&no-frame=false&no-bg=false&margin-w=8&row=1&column=7" alt="GitHub Trophies" />
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CyberArcenal&custom_title=Darius's%20Contribution%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=F85D7F&area_color=7F3FBF&title_color=FFFFFF&area=true" alt="Contribution Graph" />
+</div>
+
+---
+
+## 💬 Quote of the Day
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                         FOOTER                             -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+### ⭐ Thanks for stopping by!
+
+<p><i>"Build things that matter. Ship things that work."</i></p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer" alt="Footer Wave" />
+
+</div>
