@@ -296,7 +296,7 @@ I love turning complex problems into clean, scalable solutions — from **REST A
 
 </div>
 
----
+<!-- ---
 
 ## 🏆 GitHub Trophies
 
@@ -312,7 +312,7 @@ I love turning complex problems into clean, scalable solutions — from **REST A
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=CyberArcenal&custom_title=Darius's%20Contribution%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=F85D7F&area_color=7F3FBF&title_color=FFFFFF&area=true" alt="Contribution Graph" />
 </div>
 
----
+--- -->
 
 ## 💬 Quote of the Day
 
